@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="WhiteKeyboard">#EEFFFEFE</color>
+    <color name="BlackKeyBoard">#1B1B1B</color>
+
+    <color name="holy">#EEFFA2</color>
+<!-- gradient start -->
+    <color name="Blue">#4E88FF</color>
+    <color name="Blue_purple">#7D53B8</color>
+    <color name="Red_purple">#F62DFD</color>
+    <color name="Pink">#FF1C51</color>
+    <color name="Orange">#FF7B35</color>
+    <color name="Lemon">#FFED6A</color>
+    <color name="Lime">#96FF55</color>
+    <color name="Mint">#5AFF91</color>
+    <color name="Divine">#30FFAB</color>
+    <color name="Sky">#0090FF</color>
+</resources>
